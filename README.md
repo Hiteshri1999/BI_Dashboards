@@ -1,2 +1,2 @@
 # BI_Dashboards
-I have added all my dashboards here.
+This reposiitory comprises of all my dashboards that I had created using MicrosoftBI tool PowerBI.
